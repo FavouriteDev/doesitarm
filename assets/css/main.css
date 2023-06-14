@@ -124,3 +124,13 @@ footer{
     line-height:1 ;
     font-family: 700;
 }
+.carbon-inline-wide #carbonads {
+    display: block;
+    position: relative;
+    border-width: 1px;
+    --tw-border-opacity: 1;
+    border-color: rgb(55 65 81 / var(--tw-border-opacity));
+    border-radius: 0.5rem;
+    overflow: hidden;
+    height: 100%;
+}
